@@ -1,6 +1,8 @@
 ---
-title: "An example Quarto project using Netlify's build plugin"
+title: "Quarto Website template using Netlify's build plugin"
 ---
+
+Hi,
 
 This is a minimal Quarto website built using [Netlify](https://netlify.com/)'s build plugin.
 
