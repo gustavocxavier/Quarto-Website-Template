@@ -5,7 +5,7 @@ execute:
   freeze: true
 
 website:
-  title: "example-project-quarto-netlify-plugin"
+  title: "Quarto Website Template"
   navbar:
     left:
       - href: index.qmd
